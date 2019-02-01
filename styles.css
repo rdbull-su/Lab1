@@ -53,6 +53,23 @@ ul li{
     min-height: 500px;
 }
 
+img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 p{
     margin: 20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: white;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: #A9A9A9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
